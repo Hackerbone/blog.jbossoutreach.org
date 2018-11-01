@@ -3,8 +3,8 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b2466651fc844fb2a262645ae7d1b117)](https://www.codacy.com/app/aashutoshrathi/blog.jboss-outreach.org?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jboss-outreach/blog.jboss-outreach.org&amp;utm_campaign=Badge_Grade)
 
 
-This is a Jekyll blog. To maintain the blog, it's best you have Ruby installed.
-From within Ruby, install Jekyll and Rake too, as shown below.
+This is a Jekyll blog. To maintain the blog, it's best to have Ruby installed.
+From within Ruby, install Jekyll and Rake, as shown below.
 
 ```shell
 $ gem install jekyll
@@ -12,8 +12,8 @@ $ gem install rake
 ```
 ## Pull requests
 
-Please take reference of these 
-* Create your post under `_posts` dirertory, in `yyyy-mm-dd-title.md` format. 
+Please take reference of these:
+* Create your post under `_posts` directory, in `yyyy-mm-dd-title.md` format.
 * [Posts](https://github.com/jboss-outreach/blog.jboss-outreach.org/tree/master/_posts)
 * [Pull requests](https://github.com/jboss-outreach/blog.jboss-outreach.org/pull/21)
 
@@ -23,20 +23,20 @@ File name: `YYYY-MM-DD-post-title.md`
 
 For example, `2018-01-10-updating-readme.md` would be a valid file name.
 
-Inside the file itself, before writing your blog, paste in the following snippet and fill in all the fields appropriately. Make sure that you add a space ` `   right before you add your information.
+Inside the file itself, before writing your blog, paste in the following snippet and fill in all the fields appropriately. Make sure that you add a space ` ` right before you add your information.
 
 ```
 ---
 layout: post
 title: "[MY POST NAME]"
 description: "[POST DESCRIPTION]"
-headline: 
+headline:
 modified:
 category: personal
 tags: []
-feature-img: 
-mathjax: 
-chart: 
+feature-img:
+mathjax:
+chart:
 author: '[YOUR NAME]'
 comments: true
 featured: true
