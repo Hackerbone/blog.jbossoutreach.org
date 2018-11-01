@@ -23,7 +23,7 @@ File name: `YYYY-MM-DD-post-title.md`
 
 For example, `2018-01-10-updating-readme.md` would be a valid file name.
 
-Inside the file itself, before writing your blog, paste in the following snippet and fill in all the fields appropriately. Make sure that you add a space ` ` right before you add your information.
+Inside the file itself, before writing your blog, paste in the following snippet and fill in all the fields appropriately. Make sure that you add a space ` `  right before you add your information.
 
 ```
 ---
