@@ -4,7 +4,7 @@
 
 
 This is a Jekyll blog. To maintain the blog, it's best to have Ruby installed.
-From within Ruby, install Jekyll and Rake too, as shown below.
+From within Ruby, install Jekyll and Rake, as shown below.
 
 ```shell
 $ gem install jekyll
